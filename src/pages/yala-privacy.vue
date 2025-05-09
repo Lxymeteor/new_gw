@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'AntiLive'
-const EMAILADDRESS = 'wangyantao02083@163.com'
+const EMAILADDRESS = 'sunxiaoyun120@163.com'
 </script>
 
 <template>
