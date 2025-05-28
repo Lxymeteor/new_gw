@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'ShowLiv'
-const EMAILADDRESS = 'xiefei@habashk.shop'
+const EMAILADDRESS = 'wuhouting8732@163.com'
 </script>
 
 <template>
