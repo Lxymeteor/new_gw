@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'ChaFun'
+const APPNAME = 'ShowLiv'
 const EMAILADDRESS = 'xiefei@habashk.shop'
 </script>
 
