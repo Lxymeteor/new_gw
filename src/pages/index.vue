@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'OmChat'
-const EMAILADDRESS = 'mayki1987515123456@163.com'
+const EMAILADDRESS = 'wangxingai@buildservice.shop'
 </script>
 
 <template>
