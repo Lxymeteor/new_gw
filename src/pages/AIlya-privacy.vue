@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const APPNAME = 'OmChat'
+const APPNAME = 'AIlya'
 const EMAILADDRESS = 'wangxingai@buildservice.shop'
 </script>
 
