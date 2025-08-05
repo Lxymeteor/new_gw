@@ -3,7 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const APPNAME = 'Joiny'
-const EMAILADDRESS = 'youxiu5670@163.com'
+const EMAILADDRESS = 'he8272biyao@163.com'
 </script>
 
 <template>
